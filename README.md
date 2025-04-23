@@ -1,10 +1,13 @@
 #简介
- vue3 + vite 大屏项目模板
+ vue3 + vite 大屏项目模板，页面尺寸自适
+
+#项目预览地址
+[https://screen-vue3-apr8.vercel.app/#/storage](https://screen-vue3-apr8.vercel.app/#/storage)
+[https://screen-vue3-apr8.vercel.app/#/picking](https://screen-vue3-apr8.vercel.app/#/picking)
+[https://screen-vue3-apr8.vercel.app/#/mainControlRoom](https://screen-vue3-apr8.vercel.app/#/mainControlRoom)
+页面地址打不开，请科学上网
 
 
-[storage页面](https://screen-vue3-apr8.vercel.app/#/storage)
-[picking页面](https://screen-vue3-apr8.vercel.app/#/pickinghttps://screen-vue3-apr8.vercel.app/#/picking)
-[mainControlRoom页面](https://screen-vue3-apr8.vercel.app/#/mainControlRoom)
 ![storage](./src/assets/example/storage.png "storage")
 ![picking](./src/assets/example/picking.png "picking")
 ![mainControlRoom](./src/assets/example/mainControlRoom.png "mainControlRoom")
