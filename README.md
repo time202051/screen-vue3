@@ -3,8 +3,11 @@
 
 # 项目预览地址
 [https://screen-vue3-apr8.vercel.app/#/storage](https://screen-vue3-apr8.vercel.app/#/storage)
+
 [https://screen-vue3-apr8.vercel.app/#/picking](https://screen-vue3-apr8.vercel.app/#/picking)
+
 [https://screen-vue3-apr8.vercel.app/#/mainControlRoom](https://screen-vue3-apr8.vercel.app/#/mainControlRoom)
+
 页面地址打不开，请科学上网
 
 
