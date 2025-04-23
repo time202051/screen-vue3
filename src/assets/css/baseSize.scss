@@ -1,0 +1,93 @@
+@for $i from 0 through 300 {
+
+    // 生成 margin 工具类
+    .mt#{$i} {
+        margin-top: #{$i}px !important;
+    }
+
+    .mb#{$i} {
+        margin-bottom: #{$i}px !important;
+    }
+
+    .ml#{$i} {
+        margin-left: #{$i}px !important;
+    }
+
+    .mr#{$i} {
+        margin-right: #{$i}px !important;
+    }
+
+    .mx#{$i} {
+        margin-left: #{$i}px !important;
+        margin-right: #{$i}px !important;
+    }
+
+    .my#{$i} {
+        margin-top: #{$i}px !important;
+        margin-bottom: #{$i}px !important;
+    }
+
+    .m#{$i} {
+        margin: #{$i}px !important;
+    }
+
+    // 生成 padding 工具类
+    .pt#{$i} {
+        padding-top: #{$i}px !important;
+    }
+
+    .pb#{$i} {
+        padding-bottom: #{$i}px !important;
+    }
+
+    .pl#{$i} {
+        padding-left: #{$i}px !important;
+    }
+
+    .pr#{$i} {
+        padding-right: #{$i}px !important;
+    }
+
+    .px#{$i} {
+        padding-left: #{$i}px !important;
+        padding-right: #{$i}px !important;
+    }
+
+    .py#{$i} {
+        padding-top: #{$i}px !important;
+        padding-bottom: #{$i}px !important;
+    }
+
+    .p#{$i} {
+        padding: #{$i}px !important;
+    }
+}
+
+@for $i from 0 through 500 {
+
+    // 生成 width 工具类
+    .w#{$i} {
+        width: #{$i}px !important;
+    }
+
+    .min-w#{$i} {
+        min-width: #{$i}px !important;
+    }
+
+    .max-w#{$i} {
+        max-width: #{$i}px !important;
+    }
+
+    // 生成 height 工具类
+    .h#{$i} {
+        height: #{$i}px !important;
+    }
+
+    .min-h#{$i} {
+        min-height: #{$i}px !important;
+    }
+
+    .max-h#{$i} {
+        max-height: #{$i}px !important;
+    }
+}
